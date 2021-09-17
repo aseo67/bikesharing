@@ -41,11 +41,8 @@ Next, we look at the user type - split by weekday of trips and gender - also dis
 ![Screenshot](https://github.com/aseo67/bikesharing/blob/main/Screenshot_8_Type%20by%20Gender%20by%20Weekday.png)
 
 ## Summary
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
-
 In summary, the key takeaway to move forward with about bikesharing services is that users primarily utilize this service in their daily commute. While there might be some usage on the weekends for other purposes, the heaviest bikesharing activity is seen during morning and evening commute hours during the weekdays. Given this dynamic, we see that the majority of users are long-term subscribers, rather than one-time customers. Furthermore, this service is primarily used by male customers - majority of whom are subscribers using the service for their commute. As demographics, trends and transportation methods for Des Moines specifically are investigated moving forward, it'll be important to see if these usage patterns will fit in well with what the people of Des Moines may look for. 
 
 Two additional visualizations/charts that may provide further insight for future analyses are...
 1. What is the age break-out of the customer/user base? Understanding the breakout of birth years or users' age will important to see what age brackets bikesharing can serve. This can be in the form of a bar chart or heat map. 
 2. What is the demographic breakdown (age, gender, user type) of weekend users of the bikesharing service? This can help diagnose who utilizes the service for non-commute types of trips, which can be especially important if a commute-targeted strategy isn't as well-suited for Des Moines. This can be in the form of pie charts or heat maps. 
-
